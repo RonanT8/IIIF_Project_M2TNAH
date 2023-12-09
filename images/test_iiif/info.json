@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 60,
+    "height" : 27
+  }, {
+    "width" : 120,
+    "height" : 53
+  }, {
+    "width" : 239,
+    "height" : 106
+  }, {
+    "width" : 477,
+    "height" : 211
+  }, {
+    "width" : 954,
+    "height" : 422
+  }, {
+    "width" : 1908,
+    "height" : 844
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1908,
+  "@id" : "https://RonanT8.github.io/IIIF_Project_M2TNAH/images/test_iiif",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 844
+}
