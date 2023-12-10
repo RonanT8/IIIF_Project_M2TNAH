@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 1425,
+    "id" : "https://RonanT8.github.io/IIIF_Project_M2TNAH/images/moleiro.com-BG-4db7cc47deddd_6/canvas/",
+    "label" : {
+      "none" : [ "moleiro.com-BG-4db7cc47deddd_6" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://RonanT8.github.io/IIIF_Project_M2TNAH/images/moleiro.com-BG-4db7cc47deddd_6/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://RonanT8.github.io/IIIF_Project_M2TNAH/images/moleiro.com-BG-4db7cc47deddd_6/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 45,
+              "height" : 66
+            }, {
+              "width" : 90,
+              "height" : 131
+            }, {
+              "width" : 179,
+              "height" : 261
+            }, {
+              "width" : 357,
+              "height" : 522
+            }, {
+              "width" : 713,
+              "height" : 1044
+            }, {
+              "width" : 1425,
+              "height" : 2088
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1425,
+            "@id" : "https://RonanT8.github.io/IIIF_Project_M2TNAH/images/moleiro.com-BG-4db7cc47deddd_6",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 2088
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1425,
+          "id" : "https://RonanT8.github.io/IIIF_Project_M2TNAH/images/moleiro.com-BG-4db7cc47deddd_6/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 2088
+        },
+        "target" : "https://RonanT8.github.io/IIIF_Project_M2TNAH/images/moleiro.com-BG-4db7cc47deddd_6/canvas/"
+      } ]
+    } ],
+    "height" : 2088
+  }, {
     "width" : 1908,
     "id" : "https://RonanT8.github.io/IIIF_Project_M2TNAH/images/test_iiif/canvas/",
     "label" : {
