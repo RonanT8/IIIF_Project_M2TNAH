@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 45,
+    "height" : 66
+  }, {
+    "width" : 90,
+    "height" : 131
+  }, {
+    "width" : 179,
+    "height" : 261
+  }, {
+    "width" : 357,
+    "height" : 522
+  }, {
+    "width" : 713,
+    "height" : 1044
+  }, {
+    "width" : 1425,
+    "height" : 2088
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1425,
+  "@id" : "https://RonanT8.github.io/IIIF_Project_M2TNAH/images/moleiro.com-BG-4db7cc47deddd_6",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 2088
+}
