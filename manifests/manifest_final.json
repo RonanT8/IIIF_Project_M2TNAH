@@ -25,7 +25,7 @@
       "width" : 3986,
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://29acff46-c025-4b59-a206-91bda4263a6d",
+        "@id" : "http://3e18f5d4-ea26-4278-b614-8a5035edd9f6",
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
@@ -42,7 +42,11 @@
         },
         "on" : "http://5c7a5601-9e34-421a-8fad-a2516f832e9f"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://ronant8.github.io/IIIF_Project_M2TNAH/annotations/8c800522371fa53ad470494f2d0fe69a.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Lothaire's Gospel folio annotations"
+      } ]
     }, {
       "@id" : "http://29acff46-c025-4b59-a206-91bda4263a6d",
       "@type" : "sc:Canvas",
@@ -51,7 +55,7 @@
       "width" : 4024,
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://35e7e1d8-fccf-4379-998c-026e2d9327ee",
+        "@id" : "http://5e27dc2a-2b1e-4816-b538-761ca0805f62",
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
@@ -68,7 +72,11 @@
         },
         "on" : "http://29acff46-c025-4b59-a206-91bda4263a6d"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://ronant8.github.io/IIIF_Project_M2TNAH/annotations/39dc091b311d1037eafcf9416a0e0d05.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Du Fay's Gospels folio annotations"
+      } ]
     }, {
       "@id" : "http://949cde38-3b86-42ee-aca8-6e19449e5c4b",
       "@type" : "sc:Canvas",
@@ -77,7 +85,7 @@
       "width" : 2009,
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://4d02173d-75d6-4364-8145-a253d99b2f91",
+        "@id" : "http://6f560787-baf2-4ce9-be08-4a30c1c56e64",
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
@@ -94,7 +102,11 @@
         },
         "on" : "http://949cde38-3b86-42ee-aca8-6e19449e5c4b"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://ronant8.github.io/IIIF_Project_M2TNAH/annotations/55d7dbe4f37898a41ab573ee7ce7d55c.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Noaille's Gospels folio annotations"
+      } ]
     }, {
       "@id" : "http://35e7e1d8-fccf-4379-998c-026e2d9327ee",
       "@type" : "sc:Canvas",
@@ -103,7 +115,7 @@
       "width" : 2420,
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://5c7a5601-9e34-421a-8fad-a2516f832e9f",
+        "@id" : "http://f39ed351-ff07-486d-8488-4dd16cee7aa2",
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
@@ -120,7 +132,11 @@
         },
         "on" : "http://35e7e1d8-fccf-4379-998c-026e2d9327ee"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://ronant8.github.io/IIIF_Project_M2TNAH/annotations/8377c4fb7de879f0667918b70ea856a4.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Evangeliary's folio annotations"
+      } ]
     }, {
       "@id" : "http://956a6310-ebc2-4c89-aad3-4e3f209ad139",
       "@type" : "sc:Canvas",
@@ -129,7 +145,7 @@
       "width" : 3360,
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://86e346c7-5cd9-4981-911c-e2a856de5305",
+        "@id" : "http://6363280e-a4f4-49c4-a5ea-6b0f03654795",
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
@@ -146,7 +162,11 @@
         },
         "on" : "http://956a6310-ebc2-4c89-aad3-4e3f209ad139"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://ronant8.github.io/IIIF_Project_M2TNAH/annotations/486645e5edb861b5d50f711620be8c78.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Valenciennes’ Gospels folio annotations"
+      } ]
     }, {
       "@id" : "http://4d02173d-75d6-4364-8145-a253d99b2f91",
       "@type" : "sc:Canvas",
@@ -155,7 +175,7 @@
       "width" : 5295,
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://949cde38-3b86-42ee-aca8-6e19449e5c4b",
+        "@id" : "http://2e3c53a4-d81f-4d72-a53f-81477347ce68",
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
@@ -172,7 +192,11 @@
         },
         "on" : "http://4d02173d-75d6-4364-8145-a253d99b2f91"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://ronant8.github.io/IIIF_Project_M2TNAH/annotations/817340eb7dcb34f88e278b8a5ac6c80c.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Hraban Maur, In honorem sanctae crucis folio annotations"
+      } ]
     }, {
       "@id" : "http://86e346c7-5cd9-4981-911c-e2a856de5305",
       "@type" : "sc:Canvas",
@@ -181,7 +205,7 @@
       "width" : 800,
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://956a6310-ebc2-4c89-aad3-4e3f209ad139",
+        "@id" : "http://c530c6a8-25c8-4938-9088-07a3441c38da",
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
@@ -198,7 +222,11 @@
         },
         "on" : "http://86e346c7-5cd9-4981-911c-e2a856de5305"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://ronant8.github.io/IIIF_Project_M2TNAH/annotations/a575eb5ebbb219f99cdbee68141300ea.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Autun's Gospels folio annotations"
+      } ]
     }, {
       "@id" : "http://c15ba510-d8b0-4f35-a495-6f62be724601",
       "@type" : "sc:Canvas",
@@ -207,7 +235,7 @@
       "width" : 1425,
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://c15ba510-d8b0-4f35-a495-6f62be724601",
+        "@id" : "http://ace324e5-4cf6-434c-b3b2-3ea6d2767cb1",
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
@@ -224,7 +252,11 @@
         },
         "on" : "http://c15ba510-d8b0-4f35-a495-6f62be724601"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://ronant8.github.io/IIIF_Project_M2TNAH/annotations/c406120455435b3e09a1789eea64fd17.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Gerona Beatus folio annotations"
+      } ]
     } ]
   } ],
   "structures" : [ ]
