@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://RonanT8.github.io/IIIF_Project_M2TNAH/annotations/8c800522371fa53ad470494f2d0fe69a.json", "https://RonanT8.github.io/IIIF_Project_M2TNAH/annotations/39dc091b311d1037eafcf9416a0e0d05.json", "https://RonanT8.github.io/IIIF_Project_M2TNAH/annotations/55d7dbe4f37898a41ab573ee7ce7d55c.json" ],
+  "otherContent" : [ "https://RonanT8.github.io/IIIF_Project_M2TNAH/annotations/8c800522371fa53ad470494f2d0fe69a.json", "https://RonanT8.github.io/IIIF_Project_M2TNAH/annotations/39dc091b311d1037eafcf9416a0e0d05.json", "https://RonanT8.github.io/IIIF_Project_M2TNAH/annotations/55d7dbe4f37898a41ab573ee7ce7d55c.json", "https://RonanT8.github.io/IIIF_Project_M2TNAH/annotations/8377c4fb7de879f0667918b70ea856a4.json" ],
   "@id" : "https://RonanT8.github.io/IIIF_Project_M2TNAH/annotations/collection.json",
   "label" : "All annotations loaded in RonanT8/IIIF_Project_M2TNAH project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
