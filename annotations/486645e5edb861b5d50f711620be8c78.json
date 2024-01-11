@@ -1,0 +1,567 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Vox clamantis&nbsp;[in deserto]&nbsp;(Yelling voice in the desert).\nThis is the third verse from the Gospel of Mark, used to identify him as a lion.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><em>Vox clamantis</em>&nbsp;<em>[in</em> <em>deserto</em>]&nbsp;<em>(Yelling</em> voice in the desert).</p>\n<p>This is the third verse from the Gospel of Mark, used to identify him as a lion.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/145593447",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-01-05T04:01:17",
+    "@id" : "http://0.0.0.0:8888/annotation/1704423677429",
+    "dcterms:modified" : "2024-01-05T04:01:17",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://RonanT8.github.io/IIIF_Project_M2TNAH/manifests/manifest_iiif_project_representations_christ_evangelists.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1592,2498,486,168"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1591.54494,2497.5186h242.83103v0h242.83103v84.05308v84.05308h-242.83103h-242.83103v-84.05308z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_931e07d2-650a-4689-943d-5ddc1b49cd7a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4d02173d-75d6-4364-8145-a253d99b2f91"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Luke the bull.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Luke the bull.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/145593447",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-01-05T04:03:22",
+    "@id" : "http://0.0.0.0:8888/annotation/1704423802485",
+    "dcterms:modified" : "2024-01-05T04:03:22",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://RonanT8.github.io/IIIF_Project_M2TNAH/manifests/manifest_iiif_project_representations_christ_evangelists.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3298,2161,969,644"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4125.19425,2711.37185c-89.49484,54.10944 -215.74181,94.4029 -342.60056,94.35476v0v0c-126.85876,-0.04814 -237.37402,-37.74203 -342.60056,-94.35476c-105.22655,-56.61273 -146.12677,-142.87961 -141.9098,-227.79254c4.21697,-84.91293 53.55114,-168.47192 141.9098,-227.79254c88.35866,-59.32063 215.74181,-94.4029 342.60056,-94.35476c126.85876,0.04814 253.19312,35.22669 342.60056,94.35476c89.40744,59.12807 141.88795,142.20565 141.9098,227.79254c0.02185,85.5869 -52.41496,173.68311 -141.9098,227.79254z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_a31280f4-e501-4db9-929a-bdf1f947dd7b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4d02173d-75d6-4364-8145-a253d99b2f91"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Mat the us\nfir mat i us\nSame as John above, the letters in red are identifying Matthew and they're set to have sense with grey letters.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Mat <strong>the</strong> us</p>\n<p>fir <strong>mat</strong> i <strong>us</strong></p>\n<p>Same as John above, the letters in red are identifying Matthew and they're set to have sense with grey letters.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/145593447",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-01-05T04:10:41",
+    "@id" : "http://0.0.0.0:8888/annotation/1704424241470",
+    "dcterms:modified" : "2024-01-05T04:10:41",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://RonanT8.github.io/IIIF_Project_M2TNAH/manifests/manifest_iiif_project_representations_christ_evangelists.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2363,3213,652,273"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2458.72893,3252.55927c60.2367,-22.91095 145.21032,-39.97195 230.59573,-39.95157v0v0c85.3854,0.02038 159.77041,15.98068 230.59573,39.95157c70.82531,23.97089 98.35421,60.4979 95.51588,96.45162c-2.83834,35.95372 -36.04391,71.33416 -95.51588,96.45162c-59.47197,25.11746 -145.21032,39.97195 -230.59573,39.95157c-85.3854,-0.02038 -170.41785,-14.91564 -230.59573,-39.95157c-60.17787,-25.03593 -95.50117,-60.21253 -95.51588,-96.45162c-0.01471,-36.23909 35.27918,-73.54067 95.51588,-96.45162z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_3f625f73-9849-4270-9cbc-d00ee037c51f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4d02173d-75d6-4364-8145-a253d99b2f91"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Fuit in diebus Hero[dis]... (By Herode's days, there was...).Fifth verse of the Gospel of Luke.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><em>Fuit in diebus Hero</em>[<em>dis</em>]... (By Herode's days, there was...).<br />Fifth verse of the Gospel of Luke.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/145593447",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-01-05T04:06:00",
+    "@id" : "http://0.0.0.0:8888/annotation/1704423960268",
+    "dcterms:modified" : "2024-01-05T04:06:19",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://RonanT8.github.io/IIIF_Project_M2TNAH/manifests/manifest_iiif_project_representations_christ_evangelists.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3433,2523,648,170"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3433.29098,2522.82342h323.75842v0h323.75842v84.88072v84.88072h-323.75842h-323.75842v-84.88072z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.50196,0],&quot;editable&quot;:true}\" id=\"rectangle_de8dc0e3-891f-4846-87cd-9569e70d2eb2\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"14.58795\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4d02173d-75d6-4364-8145-a253d99b2f91"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "In principio erat V[erbum] (In the beginning was the V[erb]).\nThese are the first words from the Gospel of John.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>In principio erat V[erbum] (In the beginning was the V[erb]).</p>\n<p>These are the first words from the Gospel of John.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/145593447",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-01-05T03:38:52",
+    "@id" : "http://0.0.0.0:8888/annotation/1704422332708",
+    "dcterms:modified" : "2024-01-05T03:38:52",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://RonanT8.github.io/IIIF_Project_M2TNAH/manifests/manifest_iiif_project_representations_christ_evangelists.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2496,1649,698,128"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2495.71132,1776.88737h349.09012v0h349.09012v-64.13967v-64.13967h-349.09012h-349.09012v64.13967z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_8cf104c2-5444-4859-a478-eeace9b24fdd\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4d02173d-75d6-4364-8145-a253d99b2f91"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "John the eagle.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>John the eagle.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/145593447",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-01-05T03:36:05",
+    "@id" : "http://0.0.0.0:8888/annotation/1704422165467",
+    "dcterms:modified" : "2024-01-05T03:36:05",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://RonanT8.github.io/IIIF_Project_M2TNAH/manifests/manifest_iiif_project_representations_christ_evangelists.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2139,1151,1427,525"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2347.81052,1227.99788c131.76382,-44.06378 317.63804,-76.87658 504.413,-76.83738v0v0c186.77496,0.0392 349.48729,30.73505 504.413,76.83738c154.92572,46.10233 215.14338,116.35337 208.93471,185.50184c-6.20868,69.14847 -78.84369,137.19435 -208.93471,185.50184c-130.09102,48.30749 -317.63804,76.87658 -504.413,76.83738c-186.77496,-0.0392 -372.77786,-28.6867 -504.413,-76.83738c-131.63515,-48.15068 -208.90254,-115.80453 -208.93471,-185.50184c-0.03217,-69.69731 77.17088,-141.43806 208.93471,-185.50184z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_8839a2fc-cd94-4e37-b97a-28e6d2d21dfd\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4d02173d-75d6-4364-8145-a253d99b2f91"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Lucas",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><em>Lucas</em></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/145593447",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-01-05T04:04:40",
+    "@id" : "http://0.0.0.0:8888/annotation/1704423880914",
+    "dcterms:modified" : "2024-01-05T04:04:40",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://RonanT8.github.io/IIIF_Project_M2TNAH/manifests/manifest_iiif_project_representations_christ_evangelists.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3579,2344,462,93"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3579.17049,2344.12102h230.76023v0h230.76023v46.58735v46.58735h-230.76023h-230.76023v-46.58735z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_dfb2709a-15c9-4670-bbfa-4c8e733b5fe7\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4d02173d-75d6-4364-8145-a253d99b2f91"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Matthew the angel.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Matthew the angel.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/145593447",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-01-05T04:07:32",
+    "@id" : "http://0.0.0.0:8888/annotation/1704424052888",
+    "dcterms:modified" : "2024-01-05T04:07:32",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://RonanT8.github.io/IIIF_Project_M2TNAH/manifests/manifest_iiif_project_representations_christ_evangelists.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2145,3132,1420,782"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2352.86333,3246.67649c131.09173,-65.63276 316.01786,-114.50726 501.84014,-114.44887v0v0c185.82227,0.05839 347.70465,45.7797 501.84014,114.44887c154.13549,68.66917 214.046,173.30774 207.86899,276.30401c-6.17701,102.99628 -78.44153,204.35026 -207.86899,276.30401c-129.42746,71.95375 -316.01786,114.50726 -501.84014,114.44887c-185.82227,-0.05839 -370.87642,-42.72869 -501.84014,-114.44887c-130.96371,-71.72018 -207.83699,-172.49024 -207.86899,-276.30401c-0.03201,-103.81377 76.77726,-210.67125 207.86899,-276.30401z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_e37fc9e9-2abb-41a2-b81b-83b1b21b6a08\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4d02173d-75d6-4364-8145-a253d99b2f91"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Liber generationi (Book of the genealogy).\nFirst words of the Gospel of Matthew.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><em>Liber generationi</em> (Book of the genealogy).</p>\n<p>First words of the Gospel of Matthew.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/145593447",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-01-05T04:12:14",
+    "@id" : "http://0.0.0.0:8888/annotation/1704424334337",
+    "dcterms:modified" : "2024-01-05T04:12:14",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://RonanT8.github.io/IIIF_Project_M2TNAH/manifests/manifest_iiif_project_representations_christ_evangelists.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2489,3698,685,177"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2489.03461,3698.38696h342.35806v0h342.35806v88.52771v88.52771h-342.35806h-342.35806v-88.52771z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_8912f668-a4ff-442f-aae7-f3c35280f7b9\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4d02173d-75d6-4364-8145-a253d99b2f91"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Ioh anni an te\nhomi nis\nThe letters in red have both a meaning between them and with the other grey letters of the poem. Here, we can read Iohannis (of John) in red, thus identifying him, and ...&nbsp;Iohanni ante ... (... to John before ...) ...&nbsp;hominis ... (... of a man ...).",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>Ioh</strong> anni <strong>an</strong> te</p>\n<p>homi <strong>nis</strong></p>\n<p>The letters in red have both a meaning between them and with the other grey letters of the poem. Here, we can read <em>Iohannis</em> (of John) in red, thus identifying him, and ...&nbsp;<em>Iohanni ante ... </em>(... to John before ...) ...&nbsp;<em>hominis</em> ... (... of a man ...).</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/145593447",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-01-05T03:49:45",
+    "@id" : "http://0.0.0.0:8888/annotation/1704422985749",
+    "dcterms:modified" : "2024-01-05T03:49:58",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://RonanT8.github.io/IIIF_Project_M2TNAH/manifests/manifest_iiif_project_representations_christ_evangelists.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2110,1438,1029,216"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2260.25882,1470.11761c95.03287,-18.15557 229.09214,-31.67541 363.80105,-31.65926v0v0c134.70891,0.01615 252.06297,12.66375 363.80105,31.65926c111.73808,18.99551 155.16925,47.941 150.69133,76.4322c-4.47792,28.4912 -56.86494,56.5281 -150.69133,76.4322c-93.82639,19.9041 -229.09214,31.67541 -363.80105,31.65926c-134.70891,-0.01615 -268.86098,-11.81977 -363.80105,-31.65926c-94.94007,-19.83949 -150.66813,-47.71487 -150.69133,-76.4322c-0.0232,-28.71733 55.65846,-58.27663 150.69133,-76.4322z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_337bb896-0ff2-40fe-97e5-c74d5501eab4\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"23.45028\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4d02173d-75d6-4364-8145-a253d99b2f91"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The cross on the Christ's nimbus is a patty cross.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The cross on the Christ's nimbus is a patty cross.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/145593447",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-01-05T04:17:42",
+    "@id" : "http://0.0.0.0:8888/annotation/1704424662812",
+    "dcterms:modified" : "2024-01-05T04:17:42",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://RonanT8.github.io/IIIF_Project_M2TNAH/manifests/manifest_iiif_project_representations_christ_evangelists.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2277,2172,474,467"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2346.19514,2571.13908c43.72327,39.24639 105.40203,68.47185 167.37969,68.43694v0v0c61.97765,-0.03492 115.97059,-27.37486 167.37969,-68.43694c51.4091,-41.06207 71.39117,-103.63275 69.33094,-165.22138c-2.06023,-61.58864 -26.16275,-122.19523 -69.33094,-165.22138c-43.16819,-43.02615 -105.40203,-68.47185 -167.37969,-68.43694c-61.97765,0.03492 -123.69911,25.55045 -167.37969,68.43694c-43.68057,42.88648 -69.32026,103.14391 -69.33094,165.22138c-0.01067,62.07747 25.60766,125.97499 69.33094,165.22138z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_c4ff0623-7d79-4513-b6fb-46f68d554c3f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4d02173d-75d6-4364-8145-a253d99b2f91"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Ecce agnus Dei (Here's the lamb of God).",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><em>Ecce agnus Dei</em> (Here's the lamb of God).</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/145593447",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-01-05T04:15:13",
+    "@id" : "http://0.0.0.0:8888/annotation/1704424513749",
+    "dcterms:modified" : "2024-01-05T04:15:13",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://RonanT8.github.io/IIIF_Project_M2TNAH/manifests/manifest_iiif_project_representations_christ_evangelists.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2553,2355,561,138"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2553.09931,2467.66903l10.58937,-112.95327l550.64718,3.52979v67.066h-342.38959v67.066l-215.31717,-10.58937v0v0\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_4d920184-863f-4bbf-beb0-5b2004a6ec03\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4d02173d-75d6-4364-8145-a253d99b2f91"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Jesus Christ as&nbsp;agnus Dei.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Jesus Christ as&nbsp;<em>agnus Dei</em>.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/145593447",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-01-05T04:19:25",
+    "@id" : "http://0.0.0.0:8888/annotation/1704424765730",
+    "dcterms:modified" : "2024-01-05T04:19:25",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://RonanT8.github.io/IIIF_Project_M2TNAH/manifests/manifest_iiif_project_representations_christ_evangelists.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2209,2025,1075,1015"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2366.12388,2173.22994c99.2239,-85.22656 239.19528,-148.69189 379.84497,-148.61606v0v0c140.64968,0.07582 263.17915,59.44662 379.84497,148.61606c116.66582,89.16945 162.01234,225.04647 157.33694,358.79092c-4.6754,133.74445 -59.37273,265.35633 -157.33694,358.79092c-97.9642,93.43459 -239.19528,148.69189 -379.84497,148.61606c-140.64968,-0.07582 -280.71797,-55.48477 -379.84497,-148.61606c-99.127,-93.13129 -157.31271,-223.98492 -157.33694,-358.79092c-0.02422,-134.806 58.11304,-273.56436 157.33694,-358.79092z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_203551bc-0675-4bbc-83ec-ee62cec2c18b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4d02173d-75d6-4364-8145-a253d99b2f91"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Mark the lion.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Mark the lion.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/145593447",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-01-05T04:01:48",
+    "@id" : "http://0.0.0.0:8888/annotation/1704423708524",
+    "dcterms:modified" : "2024-01-05T04:02:04",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://RonanT8.github.io/IIIF_Project_M2TNAH/manifests/manifest_iiif_project_representations_christ_evangelists.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1478,2163,713,610"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1582.22611,2252.5758c65.79524,-51.19869 158.61008,-89.32462 251.87471,-89.27906v0v0c93.26462,0.04555 174.51375,35.71174 251.87471,89.27906c77.36095,53.56732 107.43017,135.19358 104.32992,215.53873c-3.10025,80.34514 -39.36998,159.40918 -104.32992,215.53873c-64.95994,56.12955 -158.61008,89.32462 -251.87471,89.27906c-93.26462,-0.04555 -186.14372,-33.33172 -251.87471,-89.27906c-65.73099,-55.94735 -104.31386,-134.55587 -104.32992,-215.53873c-0.01606,-80.98285 38.53468,-164.34004 104.32992,-215.53873z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"ellipse_b099839a-2d06-4c70-a2ef-102496dedc03\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"18.23494\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4d02173d-75d6-4364-8145-a253d99b2f91"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The Rabanus Maurus' poem is written again from its beginning right below the painting.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The Rabanus Maurus' poem is written again from its beginning right below the painting.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/145593447",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-01-05T03:35:28",
+    "@id" : "http://0.0.0.0:8888/annotation/1704422128009",
+    "dcterms:modified" : "2024-01-05T04:31:44",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://RonanT8.github.io/IIIF_Project_M2TNAH/manifests/manifest_iiif_project_representations_christ_evangelists.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1459,4535,3336,1683"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1459.49069,4534.65503h1668.19023v0h1668.19023v841.37231v841.37231h-1668.19023h-1668.19023v-841.37231z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,1],&quot;editable&quot;:true}\" id=\"rectangle_4bb22d7d-a20b-4618-9541-3518d2fc7895\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"52.69948\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4d02173d-75d6-4364-8145-a253d99b2f91"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The crown is, such as a throne, showing that the Christ is ruling the World.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The crown is, such as a throne, showing that the Christ is ruling the World.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/145593447",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-01-05T04:18:41",
+    "@id" : "http://0.0.0.0:8888/annotation/1704424721672",
+    "dcterms:modified" : "2024-01-05T04:18:41",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://RonanT8.github.io/IIIF_Project_M2TNAH/manifests/manifest_iiif_project_representations_christ_evangelists.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2344,2229,272,140"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2616.47101,2369.23518h-136.23822v0h-136.23822v-70.16056v-70.16056h136.23822h136.23822v70.16056z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_20393733-1ec5-40ab-a3d4-b45850ae995b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4d02173d-75d6-4364-8145-a253d99b2f91"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Marcus",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><em>Marcus</em></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/145593447",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-01-05T04:02:38",
+    "@id" : "http://0.0.0.0:8888/annotation/1704423758644",
+    "dcterms:modified" : "2024-01-05T04:02:38",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://RonanT8.github.io/IIIF_Project_M2TNAH/manifests/manifest_iiif_project_representations_christ_evangelists.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1599,2273,466,86"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1599.25077,2358.14287h232.94843v0h232.94843v-42.76385v-42.76385h-232.94843h-232.94843v42.76385z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_7268ecc4-c19e-41df-814e-8353774d5a54\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4d02173d-75d6-4364-8145-a253d99b2f91"
+    } ]
+  } ],
+  "@id" : "https://RonanT8.github.io/IIIF_Project_M2TNAH/annotations/486645e5edb861b5d50f711620be8c78.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
