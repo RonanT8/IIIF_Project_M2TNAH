@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://RonanT8.github.io/IIIF_Project_M2TNAH/manifests/manifest_iiif_project_representations_christ_evangelists.json",
     "label" : "[Click to edit label]"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://RonanT8.github.io/IIIF_Project_M2TNAH/manifests/manifest_final.json",
+    "label" : "Representing the Christ and the four living creatures in high medieval manuscripts"
   } ]
 }
