@@ -73,7 +73,7 @@
         "on" : "http://29acff46-c025-4b59-a206-91bda4263a6d"
       } ],
       "otherContent" : [ {
-        "@id" : "https://ronant8.github.io/IIIF_Project_M2TNAH/annotations/39dc091b311d1037eafcf9416a0e0d05.json",
+        "@id" : "https://ronant8.github.io/IIIF_Project_M2TNAH/annotations/55d7dbe4f37898a41ab573ee7ce7d55c.json",
         "@type" : "sc:AnnotationList",
         "label" : "Du Fay's Gospels folio annotations"
       } ]
@@ -103,7 +103,7 @@
         "on" : "http://949cde38-3b86-42ee-aca8-6e19449e5c4b"
       } ],
       "otherContent" : [ {
-        "@id" : "https://ronant8.github.io/IIIF_Project_M2TNAH/annotations/55d7dbe4f37898a41ab573ee7ce7d55c.json",
+        "@id" : "https://ronant8.github.io/IIIF_Project_M2TNAH/annotations/39dc091b311d1037eafcf9416a0e0d05.json",
         "@type" : "sc:AnnotationList",
         "label" : "Noaille's Gospels folio annotations"
       } ]
@@ -133,7 +133,7 @@
         "on" : "http://35e7e1d8-fccf-4379-998c-026e2d9327ee"
       } ],
       "otherContent" : [ {
-        "@id" : "https://ronant8.github.io/IIIF_Project_M2TNAH/annotations/8377c4fb7de879f0667918b70ea856a4.json",
+        "@id" : "https://ronant8.github.io/IIIF_Project_M2TNAH/annotations/c406120455435b3e09a1789eea64fd17.json",
         "@type" : "sc:AnnotationList",
         "label" : "Evangeliary's folio annotations"
       } ]
@@ -163,7 +163,7 @@
         "on" : "http://956a6310-ebc2-4c89-aad3-4e3f209ad139"
       } ],
       "otherContent" : [ {
-        "@id" : "https://ronant8.github.io/IIIF_Project_M2TNAH/annotations/486645e5edb861b5d50f711620be8c78.json",
+        "@id" : "https://ronant8.github.io/IIIF_Project_M2TNAH/annotations/8377c4fb7de879f0667918b70ea856a4.json",
         "@type" : "sc:AnnotationList",
         "label" : "Valenciennes’ Gospels folio annotations"
       } ]
@@ -193,7 +193,7 @@
         "on" : "http://4d02173d-75d6-4364-8145-a253d99b2f91"
       } ],
       "otherContent" : [ {
-        "@id" : "https://ronant8.github.io/IIIF_Project_M2TNAH/annotations/817340eb7dcb34f88e278b8a5ac6c80c.json",
+        "@id" : "https://ronant8.github.io/IIIF_Project_M2TNAH/annotations/486645e5edb861b5d50f711620be8c78.json",
         "@type" : "sc:AnnotationList",
         "label" : "Hraban Maur, In honorem sanctae crucis folio annotations"
       } ]
@@ -223,7 +223,7 @@
         "on" : "http://86e346c7-5cd9-4981-911c-e2a856de5305"
       } ],
       "otherContent" : [ {
-        "@id" : "https://ronant8.github.io/IIIF_Project_M2TNAH/annotations/a575eb5ebbb219f99cdbee68141300ea.json",
+        "@id" : "https://ronant8.github.io/IIIF_Project_M2TNAH/annotations/817340eb7dcb34f88e278b8a5ac6c80c.json",
         "@type" : "sc:AnnotationList",
         "label" : "Autun's Gospels folio annotations"
       } ]
@@ -253,7 +253,7 @@
         "on" : "http://c15ba510-d8b0-4f35-a495-6f62be724601"
       } ],
       "otherContent" : [ {
-        "@id" : "https://ronant8.github.io/IIIF_Project_M2TNAH/annotations/c406120455435b3e09a1789eea64fd17.json",
+        "@id" : "https://ronant8.github.io/IIIF_Project_M2TNAH/annotations/a575eb5ebbb219f99cdbee68141300ea.json",
         "@type" : "sc:AnnotationList",
         "label" : "Gerona Beatus folio annotations"
       } ]
