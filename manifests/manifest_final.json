@@ -1,0 +1,231 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://RonanT8.github.io/IIIF_Project_M2TNAH/manifests/manifest_final.json",
+  "@type" : "sc:Manifest",
+  "label" : "Representing the Christ and the four living creatures in high medieval manuscripts",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "This manifest aims to overview how the Christ and the Evangelists are commonly represented in paintings from high medieval manuscripts.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://28b3c2c2-8011-4c6a-afc8-480df187ee9c",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://5c7a5601-9e34-421a-8fad-a2516f832e9f",
+      "@type" : "sc:Canvas",
+      "label" : "Lothaire’s Gospels, 2v",
+      "height" : 5258,
+      "width" : 3986,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://29acff46-c025-4b59-a206-91bda4263a6d",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8451637v/f14/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8451637v/f14",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+          },
+          "height" : 5258,
+          "width" : 3986
+        },
+        "on" : "http://5c7a5601-9e34-421a-8fad-a2516f832e9f"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://29acff46-c025-4b59-a206-91bda4263a6d",
+      "@type" : "sc:Canvas",
+      "label" : "Du Fay’s Gospels, folio 179v",
+      "height" : 5000,
+      "width" : 4024,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://35e7e1d8-fccf-4379-998c-026e2d9327ee",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8426037h/f364/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8426037h/f364",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+          },
+          "height" : 5000,
+          "width" : 4024
+        },
+        "on" : "http://29acff46-c025-4b59-a206-91bda4263a6d"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://949cde38-3b86-42ee-aca8-6e19449e5c4b",
+      "@type" : "sc:Canvas",
+      "label" : "Noailles’ Gospels, folio 13v",
+      "height" : 2897,
+      "width" : 2009,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://4d02173d-75d6-4364-8145-a253d99b2f91",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550056533/f36/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550056533/f36",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+          },
+          "height" : 2897,
+          "width" : 2009
+        },
+        "on" : "http://949cde38-3b86-42ee-aca8-6e19449e5c4b"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://35e7e1d8-fccf-4379-998c-026e2d9327ee",
+      "@type" : "sc:Canvas",
+      "label" : "Evangeliary, plat. inf",
+      "height" : 3395,
+      "width" : 2420,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://5c7a5601-9e34-421a-8fad-a2516f832e9f",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52000464r/f254/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52000464r/f254",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+          },
+          "height" : 3395,
+          "width" : 2420
+        },
+        "on" : "http://35e7e1d8-fccf-4379-998c-026e2d9327ee"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://956a6310-ebc2-4c89-aad3-4e3f209ad139",
+      "@type" : "sc:Canvas",
+      "label" : "Valenciennes’ Gospels, folio 138v",
+      "height" : 4287,
+      "width" : 3360,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://86e346c7-5cd9-4981-911c-e2a856de5305",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8452631p/f278/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8452631p/f278",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+          },
+          "height" : 4287,
+          "width" : 3360
+        },
+        "on" : "http://956a6310-ebc2-4c89-aad3-4e3f209ad139"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://4d02173d-75d6-4364-8145-a253d99b2f91",
+      "@type" : "sc:Canvas",
+      "label" : "Hraban Maur, In honorem sanctae crucis, folio 22v",
+      "height" : 6990,
+      "width" : 5295,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://949cde38-3b86-42ee-aca8-6e19449e5c4b",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10543240q/f46/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10543240q/f46",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+          },
+          "height" : 6990,
+          "width" : 5295
+        },
+        "on" : "http://4d02173d-75d6-4364-8145-a253d99b2f91"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://86e346c7-5cd9-4981-911c-e2a856de5305",
+      "@type" : "sc:Canvas",
+      "label" : "Autun's Gospels, folio 15r",
+      "height" : 1135,
+      "width" : 800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://956a6310-ebc2-4c89-aad3-4e3f209ad139",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ronant8.github.io/IIIF_Project_M2TNAH/images/evangiles_autun_cropped/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ronant8.github.io/IIIF_Project_M2TNAH/images/evangiles_autun_cropped",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1135,
+          "width" : 800
+        },
+        "on" : "http://86e346c7-5cd9-4981-911c-e2a856de5305"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://c15ba510-d8b0-4f35-a495-6f62be724601",
+      "@type" : "sc:Canvas",
+      "label" : "Gerona Beatus, folio 2r",
+      "height" : 2088,
+      "width" : 1425,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c15ba510-d8b0-4f35-a495-6f62be724601",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ronant8.github.io/IIIF_Project_M2TNAH/images/moleiro.com-BG-4db7cc47deddd_6/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ronant8.github.io/IIIF_Project_M2TNAH/images/moleiro.com-BG-4db7cc47deddd_6",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2088,
+          "width" : 1425
+        },
+        "on" : "http://c15ba510-d8b0-4f35-a495-6f62be724601"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
