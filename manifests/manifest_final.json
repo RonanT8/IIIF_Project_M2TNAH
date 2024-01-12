@@ -2,10 +2,10 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://RonanT8.github.io/IIIF_Project_M2TNAH/manifests/manifest_final.json",
   "@type" : "sc:Manifest",
-  "label" : "Representing the Christ and the four living creatures in high medieval manuscripts",
+  "label" : "Representations of the Christ and the four living creatures in manuscripts from around the IXth century",
   "metadata" : [ {
     "label" : "Title",
-    "value" : "Representing the Christ and the four living creatures in high medieval manuscripts"
+    "value" : "Representations of the Christ and the four living creatures in manuscripts from around the IXth century"
   }, {
     "label" : "Date",
     "value" : "2024-01-12"
