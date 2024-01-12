@@ -183,6 +183,8 @@
       "@id" : "http://4d02173d-75d6-4364-8145-a253d99b2f91",
       "@type" : "sc:Canvas",
       "label" : "Hraban Maur, In honorem sanctae crucis, folio 22v",
+      "height" : 6990,
+      "width" : 5295,
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://2e3c53a4-d81f-4d72-a53f-81477347ce68",
