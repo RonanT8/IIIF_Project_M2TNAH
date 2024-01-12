@@ -3,13 +3,25 @@
   "@id" : "https://RonanT8.github.io/IIIF_Project_M2TNAH/manifests/manifest_final.json",
   "@type" : "sc:Manifest",
   "label" : "Representing the Christ and the four living creatures in high medieval manuscripts",
-  "metadata" : [ ],
+  "metadata" : [ {
+    "label" : "Title",
+    "value" : "Representing the Christ and the four living creatures in high medieval manuscripts"
+  }, {
+    "label" : "Date",
+    "value" : "2024-01-12"
+  }, {
+    "label" : "Creator",
+    "value" : "Ronan Vichot"
+  }, {
+    "label" : "Description",
+    "value" : "This manifest was produced for the english class of 2023-2024's TNAH master degree at the École nationale des chartes."
+  } ],
   "description" : [ {
-    "@value" : "This manifest aims to overview how the Christ and the Evangelists are commonly represented in paintings from high medieval manuscripts.",
+    "@value" : "This manifest aims to overview how the Christ and the Evangelists are commonly represented in paintings from high medieval manuscripts. Through some examples, it shows how the pattern of the Christ in Majesty was important and what kind of variations existed then in this kind of representations.",
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
-  "attribution" : "[Click to edit attribution]",
+  "attribution" : "École nationale des chartes",
   "sequences" : [ {
     "@id" : "http://28b3c2c2-8011-4c6a-afc8-480df187ee9c",
     "@type" : "sc:Sequence",
@@ -171,8 +183,6 @@
       "@id" : "http://4d02173d-75d6-4364-8145-a253d99b2f91",
       "@type" : "sc:Canvas",
       "label" : "Hraban Maur, In honorem sanctae crucis, folio 22v",
-      "height" : 6990,
-      "width" : 5295,
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://2e3c53a4-d81f-4d72-a53f-81477347ce68",
@@ -258,6 +268,5 @@
         "label" : "Gerona Beatus folio annotations"
       } ]
     } ]
-  } ],
-  "structures" : [ ]
+  } ]
 }
